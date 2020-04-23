@@ -1,0 +1,22 @@
+body{
+    background-image: url('../images/image1.jpg');
+    background-size: cover;
+}
+
+label{
+    font-weight: bold;
+}
+
+.form{
+    background: #f9faf5;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.buttonRegister {
+    padding: 10px;
+}
+
+.buttonReset {
+    padding: 10px;
+}
