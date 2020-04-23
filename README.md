@@ -8,7 +8,7 @@
     
 ### Tecnologias utilizadas para a atividade:
     . PHP versão 5.3.
-    . Bootstrap versão 4.
+    . Bootstrap versão 4.4.
     . HTML 5.
     . CSS 3.
     
